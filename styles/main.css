@@ -204,7 +204,7 @@ button{
 @media (min-width: 768px) and (max-width: 991px){
     .fa-3x{
         font-size: 2em!important;
-      }    
+      }
 }
 
 
@@ -251,5 +251,10 @@ button{
   margin-top: 1em; }
 
 .thank-you-list div {
-  display: inline-block !important;    
+  display: inline-block !important;
   width: 20%; }
+
+.thank-you-list-staff div {
+    display: block !important;
+    width: 35%; }
+
