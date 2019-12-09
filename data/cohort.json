@@ -8,7 +8,7 @@
             "bio": "<p>While we all know just how important data is to business and the world, it can be hard to find ways to present that information in a meaningful and digestible way. I'm the kind of person that loves to understand why something is happening, why it matters, and how I can help others understand as well. My background in sales and customer service gives me the perspective of what matters to both businesses and consumers, and marrying those skills with data analytics has allowed me to communicate complex ideas and information to a variety of audiences. I love crafting a story or metaphor to help someone understand what I'm trying to convey while unraveling the real value contained within a data set. I can not only work with the data, I can present the findings and bring value to both the enterprise and the final client.</p>",
             "github": "https://github.com/alextrambley",
             "linkedIn": "https://www.linkedin.com/in/alextrambley/",
-            "portfolio": "",
+            "portfolio": "https://alextrambley.github.io/",
             "proImg": "../assets/img/alex1.jpg",
             "funImg": "../assets/img/alex2.jpg"
     },
@@ -41,8 +41,8 @@
       "lastName": "Duncan",
       "reelThemIn": "<p>Torture the data and it will confess to anything</p>",
       "bio": "<p>I received an Engineering Technology degree from Middle Tennessee State University. For the past four years I have been on the Patient Accounting development team at Parallon, solving problems related to the lifecycle of patients' accounts. I have also played a part in enhancing/supporting the Patient Accounting application and providing data to the client from our relational database. Along the way, I became curious about obtaining insights from the data. This curiosity led me to Nashville Software School, where I am learning to effectively communicate my findings from analyzing data using Excel, Python, SQL, Tableau, and Power BI.</p>",
-      "github": "https://github.com/alextrambley",
-      "linkedIn": "https://www.linkedin.com/in/",
+      "github": "https://github.com/Cmd931",
+      "linkedIn": "https://www.linkedin.com/in/cordero-duncan-279674190/",
       "portfolio": "",
       "proImg": "../assets/img/cordero1.jpg",
       "funImg": "../assets/img/cordero1.jpg"
@@ -54,7 +54,7 @@
       "reelThemIn": "<p>Driven by Data</p>",
       "bio": "<p>It's a bird, it's a plane, it's a data analyst! I graduated from Lipscomb University in 2017 with a degree in Business Administration, and have worked in the retirement planning industry for several years. I'm a naturally curious person with a passion for problem solving and learning, so becoming an analyst where I'm required to answer complex questions and learn new tools is my dream. I entered Nashville Software School with the goal of sharpening my tech skills and forging a new career path.</p>",
       "github": "https://github.com/dspaulding94",
-      "linkedIn": "https://www.linkedin.com/in/",
+      "linkedIn": "https://www.linkedin.com/in/daniel-spaulding94/",
       "portfolio": "",
       "proImg": "../assets/img/daniel1.jpg",
       "funImg": "../assets/img/daniel2.jpg"
@@ -66,7 +66,7 @@
       "reelThemIn": "<p>Data Analyst by day, Gamer by night</p>",
       "bio": "<p>Growing up, I always knew I wanted to work in a field that would help people. Initially I thought the plan was to become a Financial Planner, but after some time in the financial field I decided to take a leap of faith and swap career paths into Data Analytics. To me, data analysts are not just there to explain data to business professionals, they are also there to help make decisions to better the company which, in turn, helps employees potentially earn more and be more successful in their careers.</p>",
       "github": "https://github.com/dpowell89",
-      "linkedIn": "https://www.linkedin.com/in/",
+      "linkedIn": "https://www.linkedin.com/in/david-powell-20133666/",
       "portfolio": "",
       "proImg": "../assets/img/davidp1.jpg",
       "funImg": "../assets/img/davidp2.jpg"
@@ -79,7 +79,7 @@
       "bio": "<p>As a Molecular biologist, I used my problem solving skills with my investigative driven logical sense in designing experiments and analyzing data. Data Analytics will be the next phase of my career.</p>",
       "github": "https://github.com/tgfbeta1017",
       "linkedIn": "https://www.linkedin.com/in/davidchung1017/",
-      "portfolio": "",
+      "portfolio": "https://github.com/tgfbeta1017/capstone",
       "proImg": "../assets/img/davidc1.jpg",
       "funImg": "../assets/img/davidc1.jpg"
   },
@@ -90,7 +90,7 @@
       "reelThemIn": "<p>Communicating what your business knows</p>",
       "bio": "<p></p>",
       "github": "https://github.com/Djtvdoug",
-      "linkedIn": "https://www.linkedin.com/in/",
+      "linkedIn": "https://www.linkedin.com/in/https://www.linkedin.com/in/doug-torres/",
       "portfolio": "",
       "proImg": "../assets/img/doug1.jpg",
       "funImg": "../assets/img/doug2.jpg"
@@ -102,7 +102,7 @@
       "reelThemIn": "<p>\"Data is...\" or \"Data are...\"? Who cares? I care! The Data is what the Data are!</p>",
       "bio": "<p>Consider the audience, if you are presenting to stickler grammar professors, use “The data are”. As our Data Analytics instructor Mary van Valkenburg is fond of saying: “The data is the data”. Data Analytics is about the unbiased examination of the cumulative “datum” and the story it brings to life. I am a stickler for data accuracy because there is responsibility in using data to influence decision making. I love to use my analytical, problem solving skills and creativity to present information in palatable ways for my audience to consume. I have experience working in positions where extracting, transforming, and reporting information were an important part of the job. Please follow the weblinks to find out more about me.</p>",
       "github": "https://github.com/EmilaStevenson",
-      "linkedIn": "https://www.linkedin.com/in/",
+      "linkedIn": "https://www.linkedin.com/in/emila-stevenson-9a27a113/",
       "portfolio": "",
       "proImg": "../assets/img/emila1.jpg",
       "funImg": "../assets/img/emila2.jpg"
@@ -114,10 +114,10 @@
       "reelThemIn": "<p>Thinking critically and solving problems from the granular to the grand</p>",
       "bio": "<p>With 13-plus years of working with publishers and partners such as Amazon, Apple, and Google, I understand the analytical drivers needed for real world functionality. Data should be used to produce results and results should be used to produce good data.</p>",
       "github": "https://github.com/jcjmcdonald",
-      "linkedIn": "https://www.linkedin.com/in/",
+      "linkedIn": "https://www.linkedin.com/in/jcjmcdonald/",
       "portfolio": "",
       "proImg": "../assets/img/jason1.jpg",
-      "funImg": "../assets/img/jason1.jpg"
+      "funImg": "../assets/img/jason2.jpg"
   },
   {
       "id": 11,
@@ -247,7 +247,7 @@
       "reelThemIn": "<p>In the beginning was the Data, and the Data was with God</p>",
       "bio": "<p>I came to data analytics with the heart and mind of a former reporter. I knew how to ask people questions, but I did not know how to ask numbers questions. In the practice of pulling meaning from a mass of information, I learned that data analytics, like journalism, is the art of knowing how to precisely ask and how to accurately report.</p>",
       "github": "https://github.com/sarah-weatherbee",
-      "linkedIn": "https://www.linkedin.com/in/",
+      "linkedIn": "https://www.linkedin.com/in/sarahmweatherbee/",
       "portfolio": "",
       "proImg": "../assets/img/sarah1.jpg",
       "funImg": "../assets/img/sarah2.jpg"
@@ -283,7 +283,7 @@
       "reelThemIn": "<p>Bringing data to life</p>",
       "bio": "<p>I have always wanted a career that involved technology, math, and problem solving. Due to these interests, I began researching different fields and careers and landed on Data Analytics.</p>",
       "github": "https://github.com/SethR2025",
-      "linkedIn": "https://www.linkedin.com/in/",
+      "linkedIn": "www.linkedin.com/in/seth-remo",
       "portfolio": "",
       "proImg": "../assets/img/seth1.jpg",
       "funImg": "../assets/img/seth2.jpg"
