@@ -56,9 +56,9 @@
       "link": "https://powerbi.microsoft.com/en-us/"
     },
     {
-      "name": "Microsoft Access",
-      "image": "assets/tech_img/access.png",
-      "link": "https://products.office.com/en-us/access"
+      "name": "Tableau",
+      "image": "assets/tech_img/tableau.png",
+      "link": "https://www.tableau.com/"
     }
   ]
 }
